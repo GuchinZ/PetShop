@@ -1,2 +1,2 @@
-# Software criado para um Petshop
+# Sistema Web criado para um Petshop
 ## 
